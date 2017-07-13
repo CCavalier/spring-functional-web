@@ -1,7 +1,13 @@
-# Welcome!
+# Functional Web Framework
 
-This Basic template lets you get started quickly with a simple working example. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
-
+Web flux is one of the new things brought by Spring 5. It has been designed as a microframework for web applications. 
+Here microframework means: 
+* Concise - no boilerplate, no setup
+* Simple - no magic
+* Easy to deploy - single deployment artifact
+* Easy to run - no extra dependencies
+* Lightweight - minimal memory / CPU footprint
+* Non-blocking - for better concurrency
 
 Please refer to the [documentation](https://tech.io/doc) to learn more about adding programming exercises within your contribution.
 
